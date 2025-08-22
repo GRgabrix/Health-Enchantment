@@ -1,5 +1,5 @@
 modLoader = 'lowcodefml'
-loaderVersion = '[51, 53)'
+loaderVersion = '[53,)'
 license = 'ARR'
 
 [[mods]]
