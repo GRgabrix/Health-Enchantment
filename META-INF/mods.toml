@@ -10,3 +10,4 @@ description = 'New enchantment that, when applied to armor, allows to get more h
 logoFile = 'pack.png'
 authors = 'GRgabrix'
 displayURL = 'https://modrinth.com/mod/health-enchant'
+sourceURL = 'https://github.com/GRgabrix/Health-Enchantment'
