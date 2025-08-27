@@ -47,4 +47,4 @@ If you find translation issues or missing languages, **please open a GitHub issu
 </details>
 
 ---
-![Enchantment](https://cdn.modrinth.com/data/w8EUWIuH/images/c2d6b1d6be64c6026476085fe776c7808d65561b.png)
+![Enchantment](https://cdn.modrinth.com/data/w8EUWIuH/images/c2771e00b4aeffc058132f299060f217200cd971.png)
