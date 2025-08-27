@@ -1,7 +1,8 @@
 ## Health Enchantment
 <details>
 <summary>Italiano</summary>
-La mod aggiunge un nuovo incantesimo chiamato "Salute".  
+  
+La mod aggiunge un nuovo incantesimo chiamato **Salute**.  
 Questo incantesimo può essere applicato alle armature per aumentare la salute massima del giocatore.  
 Potenziare l'incantesimo aumenta ulteriormente la salute totale, rendendo il personaggio più resistente.
 
@@ -24,7 +25,7 @@ Se riscontri problemi di traduzione o lingue mancanti, **apri una issue su GitHu
 
 <details>
 <summary>English</summary>
-The mod adds a new enchantment called "Health".  
+The mod adds a new enchantment called **Health**.  
 This enchantment can be applied to armor to increase the player's maximum health.  
 Upgrading the enchantment further increases total health, making your character more resilient.
 
