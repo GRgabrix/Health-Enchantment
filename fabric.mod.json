@@ -1,7 +1,7 @@
 {
 	"schemaVersion":1,
 	"id":"health_enchant",
-	"version":"2.0",
+	"version":"2.1",
 	"name":"Health Enchantment",
 	"description":"New enchantment that, when applied to armor, allows to get more health!",
 	"authors":[
@@ -15,7 +15,7 @@
 	"icon":"pack.png",
 	"environment":"*",
 	"depends": {
-		"minecraft": ">=1.21.2",
+		"minecraft":  ">=1.21.2",
 		"fabric-resource-loader-v0": "*"
 	}
 }
