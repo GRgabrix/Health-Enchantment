@@ -1,0 +1,32 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "com.grgabrix",
+		"id": "health_enchant",
+		"version": "1.1",
+		"metadata": {
+			"name": "Health Enchantment",
+			"description": "New enchantment that, when applied to armor, allows to get more health!",
+			"contributors": {
+				"GRgabrix": "Owner"
+			},
+			"contact": {
+				"homepage": "https://modrinth.com/mod/health-enchant",
+				"sources": "https://github.com/GRgabrix/Health-Enchantment"
+			},
+			"icon": "pack.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"depends": [
+			{
+				"id": "quilt_resource_loader",
+				"versions": "*",
+				"unless": "fabric-resource-loader-v0"
+			},
+			{
+				"id": "minecraft",
+				"versions": {"all": [">=1.21.0", "<1.21.2"]}
+			}
+		]
+	}
+}

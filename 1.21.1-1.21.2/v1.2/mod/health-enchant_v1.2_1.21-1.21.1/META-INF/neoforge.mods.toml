@@ -1,0 +1,19 @@
+modLoader = 'lowcodefml'
+loaderVersion = '[1.0,)'
+license = 'ARR'
+
+[[mods]]
+modId = 'health_enchant'
+version = '1.2'
+displayName = 'Health Enchantment'
+description = 'New enchantment that, when applied to armor, allows to get more health!'
+logoFile = 'pack.png'
+authors = 'GRgabrix'
+displayURL = 'https://modrinth.com/mod/health-enchant'
+
+[[dependencies.health_enchant]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[1.21, 1.21.1]"
+ordering = "NONE"
+side = "BOTH"
