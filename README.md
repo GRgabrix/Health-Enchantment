@@ -15,16 +15,20 @@ Potenziare l'incantesimo aumenta ulteriormente la salute totale, rendendo il per
 
 ### Localizzazione
 
-La mod è disponibile in quasi tutte le lingue.
+La mod è disponibile in quasi tutte le lingue.  
 ⚠️ Nota: alcune traduzioni potrebbero non essere corrette, perché le ho realizzate con ChatGPT.  
 Non sono un poliglotta di 100+ lingue 😅, quindi potrebbero esserci errori di traduzione.
 
 Se riscontri problemi di traduzione o lingue mancanti, **apri una issue su GitHub** usando il link qui sotto.
 
+✨ Insieme a questa mod è consigliata la mod [Max Health Fix](https://modrinth.com/mod/maxhealthfix).
+
 </details>
 
 <details>
+
 <summary>English</summary>
+  
 The mod adds a new enchantment called **Health**.  
 This enchantment can be applied to armor to increase the player's maximum health.  
 Upgrading the enchantment further increases total health, making your character more resilient.
@@ -43,6 +47,8 @@ The mod is available in almost all languages.
 I'm not a polyglot in 100+ languages 😅, so translation errors may occur.
 
 If you find translation issues or missing languages, **please open a GitHub issue** using the link below.
+
+✨ Along with this mod, we recommend the [Max Health Fix](https://modrinth.com/mod/maxhealthfix) mod.
 
 </details>
 
